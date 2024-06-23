@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='morse',
+    name='morsecode-package',
     version='1.0.0',
     description='Python package for converting text to Morse code and vice versa',
     long_description=open('README.md').read(),

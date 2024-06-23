@@ -4,10 +4,10 @@ Python package for converting text to Morse code and vice versa.
 
 ## Installation
 
-You can install the `morse-package` from PyPI using pip:
+You can install the `morsecode-package` from PyPI using pip:
 
 ```bash
-pip install morse-package
+pip install morsecode-package
 ```
 # Usage
 ## Converting Text to Morse Code
